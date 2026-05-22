@@ -61,9 +61,9 @@ The Random Forest model achieved the best overall performance:
 
 ## Authors
 
-Ciara Banks
-Pamela Dowuona
-Maria Ghobrial
-Julie Tat
-Phuong Khanh Ton
+Ciara Banks \n
+Pamela Dowuona \n
+Maria Ghobrial \n
+Julie Tat \n
+Phuong Khanh Ton \n
 
